@@ -1,7 +1,7 @@
 [requires]
 openssl/1.1.1k
 zlib/1.2.11
-libexpat/2.4.1
+expat/2.4.1
 
 [generators]
 cmake
