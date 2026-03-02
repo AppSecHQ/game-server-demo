@@ -1,7 +1,8 @@
 [requires]
-openssl/1.1.1k
+openssl/1.1.1p
 zlib/1.2.11
 expat/2.4.1
 
 [generators]
-cmake
+CMakeDeps
+CMakeToolchain
